@@ -4,5 +4,17 @@ case 0:
 food = "coldmoon";
 break;
 
+case 2:
+food = "排骨飯";
+break;
+
+case 3:
+food = "emotional damage";
+break;
+
+case 4:
+food = "fire meat";
+break;
+
 }
 Console.WriteLine("Random recommendation:"+ food + ".");
